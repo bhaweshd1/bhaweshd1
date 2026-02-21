@@ -23,16 +23,17 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,bootstrap,js,react,spring,mysql,git,github,vscode,intellij" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,bootstrap,js,react,spring,postman,hibernate,mysql,git,github,vscode,idea" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📈 GitHub Stats & Activity
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaweshd1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaweshd1&theme=tokyonight&hide_border=true&background=00000000" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaweshd1&theme=tokyonight&hide_border=true&background=00000000" height="170"/> 
 </p>
 
 <p align="center">
@@ -41,7 +42,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto Animated)
+## 📊 GitHub Contribution 
 
 <p align="center">
   <img src="https://github.com/bhaweshd1/bhaweshd1/blob/output/github-contribution-grid-snake.svg" />
@@ -66,4 +67,4 @@
   <img src="https://komarev.com/ghpvc/?username=bhaweshd1&label=Profile%20Views&color=00F7FF&style=flat"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=150&section=footer&text=Feel_free_to_Connect_and_Collaborate&fontSize=25&fontColor=ffffff"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=150&section=footer&text=Connect_and_Collaborate&fontSize=25&fontColor=ffffff"/> 
