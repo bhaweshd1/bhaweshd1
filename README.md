@@ -1,5 +1,3 @@
-<!-- 🔥 Animated Premium Developer Profile -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=220&section=header&text=Welcome....!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h1 align="center">Hi 👋, I'm Bhawesh Dawande</h1>
